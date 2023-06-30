@@ -34,7 +34,7 @@ const Main = () => {
         getBooks();
     }, [])
 
-    // non serve in quanto reperosco info da file json
+    // non serve in quanto reperisco info da file json
     // const getProductData = async () => {
     //     try {
     //         const data = await fetch("https://dummyjson.com/products");
